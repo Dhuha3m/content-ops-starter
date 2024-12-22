@@ -4,14 +4,12 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Want Big IMPACT! D.E Using Big IMAGE.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Welcome to D.E Computer Science for IT Services, where innovation meets dedication. With a passion for technology and a commitment to your success, we blend expertise and personalized solutions to drive your business forward. 
     actions:
       - label: Get started
         altText: ''
