@@ -2,7 +2,7 @@
 title: Welcome to D.E
 slug: /
 sections:
-  - type: GenericSection
+  - type:
     title:
       text: "Welcome to D.E IT Services"
       subtitle: "Modern, secure, and innovative solutions for your business."
