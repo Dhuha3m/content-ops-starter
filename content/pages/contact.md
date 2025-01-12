@@ -11,7 +11,8 @@ seo:
   metaDescription: Contact D.E IT Services for inquiries, assistance, or to learn more about our solutions.
   socialImage: /images/contact-us.jpg
 type: PageLayout
----
+
+
 We’re here to help! Use the form below to send us your questions, requests, or feedback.
 
 <form name="contact" method="POST" action="/thank-you" data-netlify="true" data-netlify-honeypot="bot-field">
