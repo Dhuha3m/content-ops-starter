@@ -382,3 +382,10 @@ function ListOfSubNavLinks({ links = [], hasAnnotations, inMobileMenu = false })
         </>
     );
 }
+document.addEventListener("contextmenu", (event) => event.preventDefault());
+document.addEventListener("keydown", (event) => {
+  if (event.ctrlKey && (event.key === "s" || event.key === "u")) {
+    event.preventDefault();
+  }
+});
+

@@ -1,7 +1,7 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
-        "altText": "Logo dark",
+        "url": "/images/logo.png",
+        "altText": "D.E Logo",
         "styles": {
             "self": {
                 "margin": ["mr-3"]
@@ -11,81 +11,66 @@
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "Home",
+            "url": "/index",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
+            "label": "Program Manager",
+            "altText": "Program Manager",
+            "url": "/pm",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
+            "label": "ERP",
+            "altText": "ERP",
+            "url": "/erp",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Dropdown",
-            "altText": "Dropdown",
-            "links": [
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
-        }
-    ],
-    "secondaryLinks": [
-        {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "https://app.netlify.com/signup",
+            "label": "IT-Consultancy-Training",
+            "altText": "it-consultancy-training",
+            "url": "/con-train",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Button"
+            "type": "Link"
         },
         {
-            "label": "Log in",
-            "url": "/",
+            "label": "Development",
+            "altText": "Web & Mobile Development",
+            "url": "/dev",
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "primary",
-            "type": "Button"
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "Cybersecurity",
+            "altText": "Cybersecurity",
+            "url": "/cyber",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "Clean Energy",
+            "altText": "Clean Energy",
+            "url": "/energy",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         }
     ],
     "variant": "logo-left-primary-nav-centered",
