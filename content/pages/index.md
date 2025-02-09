@@ -54,7 +54,7 @@ actions:
       - type: FeaturedItem
         title: AI Implementation
           text: >-
-          Transform operations with tailored AI solutions to optimize efficiency and drive innovation.  
+          Optimize operations with tailored AI solutions to optimize efficiency and drive innovation.  
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -79,7 +79,7 @@ actions:
               borderRadius: x-large
       - title: FinTech
           text: >-
-          Deliver cutting-edge financial technology solutions to streamline transactions and enhance user experience.  
+          Streamline financial transactions with cutting-edge technology. 
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -101,7 +101,7 @@ actions:
         type: FeaturedItem
       - title: Data Analysis
           text: >-
-          Unlock insights with advanced analytics for informed, data-driven decisions.  
+          UUnlock data insights for strategic decision-making.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
