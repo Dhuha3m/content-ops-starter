@@ -8,7 +8,7 @@ sections:
       subtitle: "Modern, secure, and innovative solutions for your business."
       color: text-dark
       type: TitleBlock
-      text: >
+      text: >-
       Welcome to D.E for IT Services, where innovation meets dedication. With a passion for technology and a commitment to your success, we blend expertise and personalized solutions to drive your business forward. 
 
       Our focus on client-centricity, excellence, and community engagement defines who we are  
